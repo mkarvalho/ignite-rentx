@@ -10,4 +10,5 @@ export interface ICarsRepository {
     category_id,
     name,
   }: IListAvailableCarsDTO): Promise<Car[]>;
+  findById(id: string): Promise<Car>;
 }

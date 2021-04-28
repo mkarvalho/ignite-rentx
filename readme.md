@@ -7,7 +7,7 @@
 
 **RN - REGRA DE NEGÓCIO**
 - [x] Não deve ser possível cadastrar um carro com uma placa já existente.
-- [ ] Não deve ser possível alterar a placa de um carro já cadastrado.
+<!-- - [ ] Não deve ser possível alterar a placa de um carro já cadastrado. -->
 - [x] O carro deve ser cadastrado como disponivel por padrão.
 - [x] O usuário responsável pelo cadastro deve ser um usuário administrador.
 
@@ -28,8 +28,8 @@
 
 **RF - REQUISITOS FUNCIONAIS**
 - [ ] Deve ser possível cadastrar uma especificação para um carro.
-- [ ] Deve ser possível listar todas as especificações.
-- [ ] Deve ser possível listar todos os carros.
+<!-- - [ ] Deve ser possível listar todas as especificações.
+- [ ] Deve ser possível listar todos os carros. -->
 
 **RN - REGRA DE NEGÓCIO**
 - [ ] Não deve ser possível cadastrar uma especificação para um carro não cadastrado.
